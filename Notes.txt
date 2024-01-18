@@ -1,0 +1,12 @@
+Task 1- create the object of class A - not done
+Task 2- create the object of class B - done
+Task 3- write down the type of variable - done
+Task 4- Why the variable f is local variable ? - not done
+Task 5- type of variable h ? - done
+Task 6- reason of Answer of TAsk 5.- done
+Task 7- Print The value of h- done
+Task 8- Print the value of b- done
+TAsk 9- create a non statik mathiod of class test(NNN24) 
+         name of the method wull be your name 
+         inand return data type will be int - not done
+Task 10- call the method Sourabh.  not done 
